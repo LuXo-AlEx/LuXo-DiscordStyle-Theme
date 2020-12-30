@@ -1,0 +1,90 @@
+/*
+@*Name:LuXo Anime Theme
+@*Made By Ale✘#7801 (Discord)
+@*Github Profile:LuXo AlEx
+@*Version 1.0.0
+@*Description:A style thst gives discord a discord background and more! For stylus! And better discord I think.*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap%27');
+@import url('https://discordstyles.github.io/FrostedGlass/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+  --background-image: url('https://cdn.discordapp.com/attachments/786393438487969793/792602350279589898/discord_dark.png');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center center;
+  
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/786393438487969793/792609524011368448/SOULLLLL.jpg');
+  --home-button-zoom:100px;
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0.58;
+  --left-brightness: 0.58;
+  --middle-brightness: 0.58;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.68;
+  --gradient-primary: 2, 4, 107;
+  --gradient-secondary: 91, 2, 191;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --link-colour: #00b0f4;
+  --gradient-direction: 320deg;
+  --tint-colour: 156,39,176;
+  --tint-brightness: 0.1;
+  --font: 'Comic Neue';
+  --window-padding: undefinedpx;
+  --window-roundness: undefinedpx;
+  --show-gift-gif-buttons: block;
+  --update-notice-1: none;
+  --server-icon-size: 48px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+  --rs-small-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-width: 3px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-invisible-color: #747f8d;}
+
+.container-UC8Ug1 {background-color:#1f2020}
+#app-mount .footer-2gL1pp {
+    background: #1f2020;
+    box-shadow: none;}
+colorHeaderPrimary-26Jzh- {
+    color: #de221f;}
+theme-light {
+    --header-primary: #f0f0f6;}
+
+.colorHeaderPrimary-26Jzh- {
+    color: #a2a2a7;}
+
+.regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 {background-color:#1f2020}
+.regionSelectModal-12e-57 {background: #1f2020!important;}
+
+container-3XJ8ns {background-color: #1f2020e6; border: 1px solid rgb(16, 15, 15);}
+
+.grid-1nZz7S {background-color: #1f20207a;}
+
+.container-3XJ8ns {
+    width: 250px;
+    overflow: hidden;
+    border-radius: 4px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 8px;
+    background-color: #1f2020d9;
+    border: 1px solid rgba(3, 3, 3, 0.1);}
+
+.list-1xE9GQ {background-color: #1f2020d1;}
